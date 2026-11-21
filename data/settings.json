@@ -12,9 +12,9 @@
       "Fajr": 5,
       "Sunrise": 0,
       "Dhuhr": 3,
-      "Asr": 1,
-      "Maghrib": 2,
-      "Isha": 1
+      "Asr": 3,
+      "Maghrib": 3,
+      "Isha": 3
     }
   },
   "iqamahOffsets": {
